@@ -624,12 +624,6 @@
         <mxCell id="XTRRLyF-G9IhxqIpwvV9-132" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;DT-PRO-010&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;192.168.4.106&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;port 3&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="150" width="260" x="-1410" y="1010" as="geometry" />
         </mxCell>
-        <mxCell id="XTRRLyF-G9IhxqIpwvV9-134" edge="1" parent="1" style="shape=link;html=1;rounded=0;" value="">
-          <mxGeometry relative="1" width="100" as="geometry">
-            <mxPoint x="690" y="-410" as="sourcePoint" />
-            <mxPoint x="790" y="-410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
